@@ -2,8 +2,8 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-<!--I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.-->
-Soy un desarrollador indie full-stack y creador de contenidos que construye su versión del mundo digital paso a paso. Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código. 
+<!--I'm an indie front-end developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.-->
+Soy un desarrollador indie front-end que construye su versión del mundo digital paso a paso. Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código. 
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
