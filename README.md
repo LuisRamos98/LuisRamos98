@@ -6,9 +6,9 @@
 Soy un desarrollador indie front-end que construye su versión del mundo digital paso a paso. Todos los proyectos de codificación se construyen desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código. 
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/LuisRamos98?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/LuisRamos98?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/LuisRamos98?tab=repositories&q=&type=&language=&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LuisRamos98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
