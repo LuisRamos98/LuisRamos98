@@ -40,7 +40,7 @@ Soy un desarrollador indie front-end que construye su versión del mundo digital
 
 <details>
  <summary><h3>👨‍💻 Luis's Coding Journey</h3></summary>
-   Comencé mi viaje de codificación como un ingenuo estudiante de informática con la pasión de aprender todo lo que pudiera sobre este mundo de la programación - código, desarrollo web, linux, teoría. Y al mismo tiempo, me enseñé a mí mismo el desarrollo de webapps con el sueño de construir mi propia aplicación web. Un deseo que me hara conseguir un trabajo de ingeniería de software de tiempo completo después de la graduación. Un sueño que estaré listo para abordar en 2023 gracias a la medida que estoy poniendo en marcha desde ahora hasta finales de 2022. No esperes, porque ya voy.
+   Profesional del sector de informática orientado al desarrollo web, análisis y depuración de datos con 2 años de experiencia como frontend (HTML, CSS, SASS, Javascript, React.JS), herramientas backend (Python, php) y conocimientos en herramientas de base de datos y reportería (SQL, Power BI, Alteryx). Actualmente estoy en aprendizaje continuo en herramientas de backend para estar actualizado en las últimas versiones de las herramientas conocidas (php) y aumentar mi conocimiento en otras como puede ser (Django y MongoDB). Experiencia en entornos de trabajo en equipo, pluricultural, bilingüe con habilidades para mantener relaciones laborales constructivas. Capacidad de comunicación en inglés (B2) y español (nativo).
 
 
 [website]: https://luisrpk.com
