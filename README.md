@@ -32,7 +32,7 @@
         <img src='https://img.shields.io/badge/-Kali-blue?logo=kali-linux&logoColor=white' alt='Kali'>
     </a>
     <a href='#'>
-        <img src='https://img.shields.io/badge/-Windows-lightblue?logo=windows&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Linux-grey?logo=linux&logoColor=white'>
     </a>
 </p>
 
