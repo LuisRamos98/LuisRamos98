@@ -29,6 +29,6 @@
 
 <p align='center'>
     
-  <a align='center' href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img align='center' alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
 
 </p>
