@@ -29,7 +29,10 @@
 
 <p align='center'>
     <a href="#">
-        <img src='https://img.shields.io/badge/-KALI-blue?logo=kali-linux&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Kali-blue?logo=kali-linux&logoColor=white' alt='Kali'>
+    </a>
+    <a href='#'>
+        <img src='https://img.shields.io/badge/-Windows-lightblue?logo=windows&logoColor=white'>
     </a>
 </p>
 
