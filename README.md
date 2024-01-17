@@ -25,7 +25,7 @@
 
 <h2 align='center'>🐙 My Skills</h2>
 
-<h4 align='center'> Operating System</h4>
+<h4 align='center'> 🐧 Operating System</h4>
 
 <p align='center'>
   <a href="#"><img alt='Kali' src='https://img.shields.io/badge/Kali-025E8C.svg?logo=kali-linux&logoColor=white'></a>
