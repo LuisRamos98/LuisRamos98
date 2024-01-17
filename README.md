@@ -4,12 +4,10 @@
 
 {
 
-* 👂 `My name is`: **Sammwy**,
-* 👩 `Pronouns`: **She/Her**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
-* ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **Rust & TypeScript**  
+* 🔥 `My name is`: **Luis**,
+* 🚀 `I'm`: **25 years old**,
+* 🕵️ `I’m currently learning`: **Penetration Testings**,
+* 💻 `Favorite lang`: **Python & Bash**  
 
 }
 
