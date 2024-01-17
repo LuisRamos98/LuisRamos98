@@ -3,6 +3,9 @@
 <img align='left' src='https://octodex.github.com/images/stormtroopocat.png' width='25%'>
 
 {
-* `My name is` : **Luis Ramos**
+
+* `My name is`: **Luis Ramos**
+* `My name is`: **Luis Ramos**
+* `My name is`: **Luis Ramos**
 
 }
