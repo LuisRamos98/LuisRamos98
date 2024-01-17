@@ -30,7 +30,7 @@
 <p align='center'>
   <a href="#"><img alt='Kali' src='https://img.shields.io/badge/Kali-025E8C.svg?logo=kali-linux&logoColor=white'></a>
   <a href='#'><img alt='Linux' src='https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white'></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-7952B3.svg?logo=windows&logoColor=white"></a>
 
 </p>
 
