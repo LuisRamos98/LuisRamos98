@@ -4,8 +4,13 @@
 
 {
 
-* `My name is`: **Luis Ramos**
-* `My name is`: **Luis Ramos**
-* `My name is`: **Luis Ramos**
+* 👂 `My name is`: **Sammwy**,
+* 👩 `Pronouns`: **She/Her**,
+* ⚡ `I'm`: **21 years old**,
+* 🌱 `I’m currently learning`: **Rust**,
+* ❤️ `I love`: **Caramel macchiato**  ,
+* 💻 `Favorite lang`: **Rust & TypeScript**  
 
 }
+
+<br/>
