@@ -28,13 +28,9 @@
 <h4 align='center'> Operating System</h4>
 
 <p align='center'>
-    <a href="#">
-        <img src='https://img.shields.io/badge/-Kali-025E8C.svg?logo=kali-linux&logoColor=white' alt='Kali'>
-    </a>
-    <a href='#'>
-        <img src='https://img.shields.io/badge/-Linux-grey?logo=linux&logoColor=white'>
-    </a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt='Kali' src='https://img.shields.io/badge/Kali-025E8C.svg?logo=kali-linux&logoColor=white'></a>
+  <a href='#'><img alt='Linux' src='https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white'></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
 </p>
 
