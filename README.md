@@ -1,4 +1,4 @@
-<h2 align='center'> Hey, welcome 👋</h2>
+<h2 align='center'> Hey, Listen 🧚‍♀️</h2>
 
 <img align='right' src='https://octodex.github.com/images/stormtroopocat.png' width='25%'>
 
@@ -12,3 +12,5 @@
 }
 
 <br/>
+
+<h2 align='center'>📊 Estadísticas</h2>
