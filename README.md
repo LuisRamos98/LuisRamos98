@@ -1,6 +1,6 @@
 <h2 align='center'> Hey, Listen 🧚‍♀️</h2>
 
-<img align='right' src='https://github.com/LuisRamos98/LuisRamos98/blob/main/archive/pixil-frame-0(1).png' width='50%'>
+<img align='right' src='https://github.com/LuisRamos98/LuisRamos98/blob/main/archive/pixil-frame-0(1).png' width='35%'>
 
 {
 
