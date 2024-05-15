@@ -1,16 +1,16 @@
 <h2 align='center'> Hey, Listen 🧚‍♀️</h2>
-<div align='center'>
-  <img align='right' src='https://github.com/LuisRamos98/LuisRamos98/blob/main/archive/pixil-frame-0(1).png' width='35%'>
-  
-  {
-  
-  * 🔥 `My name is`: **Luis**,
-  * 🚀 `I'm`: **25 years old**,
-  * 🕵️ `I’m currently learning`: **Penetration Testing**,
-  * 💻 `Favorite lang`: **Python & Bash**  
-  
-  }
-</div>
+
+<img align='right' src='https://github.com/LuisRamos98/LuisRamos98/blob/main/archive/pixil-frame-0(1).png' width='30%'>
+
+{
+
+* 🔥 `My name is`: **Luis**,
+* 🚀 `I'm`: **25 years old**,
+* 🕵️ `I’m currently learning`: **Penetration Testing**,
+* 💻 `Favorite lang`: **Python & Bash**  
+
+}
+
 <br/>
 
 <h2 align='center'>📊 Statistics</h2>
